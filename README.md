@@ -23,4 +23,4 @@ This project implements a simple Relational Database Management System (RDBMS) i
 5. Use the web interface to test CRUD operations.
 
 ## Credit
-All code written by [Your Name]. No third-party libraries used except PHP standard libraries.
+All code written by Sadiki Hamisi. No third-party libraries used except PHP standard libraries.
