@@ -24,3 +24,4 @@ This project implements a simple Relational Database Management System (RDBMS) i
 
 ## Credit
 All code written by Sadiki Hamisi. No third-party libraries used except PHP standard libraries.
+Thank you
