@@ -1,0 +1,17 @@
+{
+    "columns": {
+        "id": {
+            "type": "INTEGER"
+        },
+        "name": {
+            "type": "STRING"
+        },
+        "active": {
+            "type": "BOOLEAN"
+        }
+    },
+    "primary_key": "id",
+    "unique": [
+        "name"
+    ]
+}
